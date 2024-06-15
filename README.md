@@ -2,7 +2,7 @@
 
 ![Tardigrada777's GitHub stats](https://github-readme-stats-nine-alpha-63.vercel.app/api?username=tardigrada777&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-![Top Langs]([https://github-readme-stats.vercel.app/api](https://github-readme-stats-nine-alpha-63.vercel.app/api/top-langs/?username=tardigrada777&layout=compact&hide=HTML,Shell,CSS&exclude_repo=words_app,swapp,count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api](https://github-readme-stats-nine-alpha-63.vercel.app/api/top-langs/?username=tardigrada777&layout=compact&hide=HTML,Shell,CSS&exclude_repo=words_app,swapp,count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
