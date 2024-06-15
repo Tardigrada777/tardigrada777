@@ -16,7 +16,7 @@ I'm always pushing myself to level up my problem-solving game. It's not just abo
 
 Btw, I've got a secret identity as a budding sci-fi author. I love cooking up futuristic worlds and mind-bending plots. Recently, I've been exploring the fascinating intersection of AI and creative writing. I'm constantly tinkering with fine-tuning models and crafting prompts to see how AI can enhance the storytelling process. It's like bringing my two passions together in one exciting experiment!
 
-IF you love Sci-Fi - ([have a look](https://www.amazon.com/gp/product/B0CQWM3Q9Z?ref_=dbs_m_mng_rwt_calw_tkin_0&storeType=ebooks))!
+If you love Sci-Fi - ([have a look](https://www.amazon.com/gp/product/B0CQWM3Q9Z?ref_=dbs_m_mng_rwt_calw_tkin_0&storeType=ebooks))!
 
 ## 🛠️ Tech Stack
 
