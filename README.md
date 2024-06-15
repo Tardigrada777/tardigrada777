@@ -41,7 +41,7 @@ IF you love Sci-Fi - ([have a look](https://www.amazon.com/gp/product/B0CQWM3Q9Z
   - **Focus**: Machine Learning (ML) and Artificial Intelligence (AI)
 ---
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/vmyltsev) or reach out via [email](ntwrite@gmail.com). Let's build something great together!
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/vmyltsev) or reach out via [email](mailto:ntwrite@gmail.com). Let's build something great together!
 
 ## Here are some stats
 
