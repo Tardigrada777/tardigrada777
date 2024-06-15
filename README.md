@@ -1,6 +1,6 @@
 # Hey there! 👋 , I'm Vladimir Myltsev
 
-I'm a Senior Software Engineer and Tech Lead at CloudGeometry. With 6+ years in the field, I'm all about crafting rock-solid software that doesn't just work, but solves real business challenges.
+I'm a Senior Software Engineer and Tech Lead at [CloudGeometry](https://www.cloudgeometry.io/). With 6+ years in the field, I'm all about crafting rock-solid software that doesn't just work, but solves real business challenges.
 
 For me, engineering isn't just about churning out code. It's about honing those problem-solving skills and building systems that stand the test of time. Always up for a good tech challenge!
 
